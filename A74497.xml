@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance touching the assessing, levying, and collecting of the latter three months assesment appointed by an act of the late Parlament, entituled, An act for an assesment at the rate of 120000 l. by the moneth, for six moneths, from the 25. of December 1653, to the 24. of June then next ensuing, towards the maintenance of the armies and navies of this Commonwealth. Fryday, 17. February, 1653. Ordered by His Highness the Lord Protector, and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74497</idno>
+            <idno type="STC">Thomason E1063_12</idno>
+            <idno type="STC">ESTC R209544</idno>
+            <idno type="EEBO-CITATION">99868420</idno>
+            <idno type="PROQUEST">99868420</idno>
+            <idno type="VID">169178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169178)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance touching the assessing, levying, and collecting of the latter three months assesment appointed by an act of the late Parlament, entituled, An act for an assesment at the rate of 120000 l. by the moneth, for six moneths, from the 25. of December 1653, to the 24. of June then next ensuing, towards the maintenance of the armies and navies of this Commonwealth. Fryday, 17. February, 1653. Ordered by His Highness the Lord Protector, and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 93-97, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653 [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Taxation --  Great Britain --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169178:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE Touching the Aſſeſſing, Levying, and Collecting of the latter Three Months Aſſeſment Appointed by an Act of the late PARLAMENT, ENTITULED, <hi>An Act for an Aſſeſment at the rate of 120000 l. by the Moneth, for ſix Moneths, from the 25. of <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1653. to the 24. of <hi>June</hi> then next enſu<g ref="char:EOLhyphen"/>ing, towards the maintenance of the Armies and Navies of this Commonwealth.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Fryday, 17. February, 1653.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by His Highneſs the Lord Protector, and His Council, that this Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>HENRY SCOBELL Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Prin<g ref="char:EOLhyphen"/>ters to His Highneſs the Lord Protector, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169178:2"/>
+            <pb n="93" facs="tcp:169178:2"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE Touching the Aſſeſſing, Levying, and Col<g ref="char:EOLhyphen"/>lecting of the latter three Moneths Aſſeſ<g ref="char:EOLhyphen"/>ment, appointed by an Act of the late Parlament, En<g ref="char:EOLhyphen"/>tituled, <hi>An Act for an Aſſeſsment at the rate of 120000 l. by the Moneth, for ſix Moneths, from the 25. of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> 1653. to the 24. of <hi>June</hi> then next enſuing, towards the maintenance of the Armys and Navys of this Common<g ref="char:EOLhyphen"/>wealth.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of the late Parlament, Entitu<g ref="char:EOLhyphen"/>led, <hi>An Act for an Aſſeſsment at the rate of one hundred and twenty thouſand pounds by the Moneth, for ſix Moneths, from the five and twentieth day of <hi>December</hi> one thouſand ſix hundred fifty and three, to the four and twentieth day of <hi>June</hi> then next enſuing, towards
+<pb n="94" facs="tcp:169178:3"/> the maintenance of the Armies and Navies of this Commonwealth,</hi> It is among other things provided and enacted, That if the Commisſi<g ref="char:EOLhyphen"/>oners for any County, City, or Town in the ſaid Act named, ſhould at their ſecond general meeting find, that, for want of ſufficient time, a juſt and perfect ſurvey, or rate, of each Pariſh &amp; place within ſuch County, City, or Town, as is directed by the ſaid Act, could not be made, &amp; re<g ref="char:EOLhyphen"/>turned, ſo as to proceed to the rating and appor<g ref="char:EOLhyphen"/>tioning of the whole ſix moneths Aſſeſments, in way and manner as is in that Act preſcribed, That then it ſhall and may be lawful for the ſaid Commiſſioners in any of the ſaid Coun<g ref="char:EOLhyphen"/>ties, Cities, or Towns, where the ſaid ſur<g ref="char:EOLhyphen"/>veys and rates for want of ſuch ſufficient time ſhall not be made and returned as afore<g ref="char:EOLhyphen"/>ſaid, to proceed at their ſecond general meeting, to apportion the firſt three of the ſaid ſix months Aſſeſſment, according to the moſt juſt and equal way of rates held in ſuch Counties, Cities, and Towns; And the Commisſioners of ſuch Counties, Cities, and Towns, in their re<g ref="char:EOLhyphen"/>ſpective Diviſions, to cauſe the ſame to be aſ<g ref="char:EOLhyphen"/>ſeſſed, levyed, collected, and paid. And the Aſſeſſors, Collectors and Sub-Collectors in their Reſpective Diviſions, Pariſhes, and places were thereby authorized and required, in aſſesſing, levying, and collecting of the ſaid firſt three Moneths Aſſeſſment, to proceed ac<g ref="char:EOLhyphen"/>cordingly. And in ſuch Counties, Cities, and Towns where the firſt three Moneths Aſſeſſment was appointed to be aſſesſed, and levyed according to the rates held in ſuch pla<g ref="char:EOLhyphen"/>ces as aforeſaid, the ſeveral and reſpective Commisſioners, and other perſons therein,
+<pb n="95" facs="tcp:169178:3"/> were authorized to put in execution all the pow<g ref="char:EOLhyphen"/>ers given by that Act unto them, for cauſing the ſaid three moneths Aſſeſſment to bee fully, and timely aſſeſſed, collected, levied, and paid, as if the ſame had been aſſeſſed and rated by a poundrate, and as the ſix moneths aſſeſſement appointed by that Act, were therein directed to bee aſſeſſed and rated. But for the apportioning aſſeſsing, levy<g ref="char:EOLhyphen"/>ing and payment of the laſt three of the ſaid ſix moneths Aſseſsment by a ſurvey &amp; pound rate; It was Enacted, That the Commiſſioners of ſuch Counties, Cities and Towns, where the firſt three moneths Aſseſsment ſhould bee ap<g ref="char:EOLhyphen"/>pointed to be rated, aſſeſſed and paid, according to the rates held in ſuch places as aforeſaid, or the major part of them preſent at the ſaid ſecond general meeting, were thereby authorized, and required to appoint a third general meeting, on the firſt day of <hi>March,</hi> one thouſand ſix hundred fiftie and three, and at their ſaid ſecond general meeting to give ſuch orders, and directions, and appoint ſuch times for the effectual taking, exa<g ref="char:EOLhyphen"/>mining and returning of ſurveys, and determin<g ref="char:EOLhyphen"/>ing all controverſies which might happen there<g ref="char:EOLhyphen"/>in, as that a true, and perfect ſurvey of each pa<g ref="char:EOLhyphen"/>riſh, and place within ſuch Countie, Citie, or Town might bee returned unto them at their ſaid third general meeting. And the ſaid Com<g ref="char:EOLhyphen"/>miſſioners in their reſpective Diviſions, and Hundreds, or any two of them were likewiſe to proceed effectually therein, according to the pow<g ref="char:EOLhyphen"/>ers given them in that Act for that purpoſe. And the Commiſſioners for ſuch Countie, Citie, or Town, or the major part of ſo many of them as ſhould bee preſent at the ſaid third general meet<g ref="char:EOLhyphen"/>ing,
+<pb n="96" facs="tcp:169178:4"/> were thereby required to ſum, and caſt up the total of the ſurveys of each Countie, Citie, and Town, and to proceed to apportion, levy, and raiſe the ſaid latter three moneths Aſ<g ref="char:EOLhyphen"/>ſeſſment upon all Eſtates reall and perſonal, in ſuch manner, and by ſuch wayes, as the ſix moneths Aeſſeſsments were therein firſt ap<g ref="char:EOLhyphen"/>pointed to be rated, aſſeſsed, levied and paid. And whereas by the ſaid Act the latter three moneths Aſſeſsments is appointed to be collected ſo as the ſame may be fully paid into the high Collectors, and by them to the Receiver Gene<g ref="char:EOLhyphen"/>ral to compleat the whole ſix months Aſſeſsment at, or before the twentieth day of <hi>April</hi> at the fur<g ref="char:EOLhyphen"/>theſt, which ſhall bee in the year, one thouſand ſix hundred fiftie and four. Now to the end the whole Aſſeſsment by the ſaid Act appointed may be fully collected, and paid in for the preventing of free-quarter, and for the more effectual carry<g ref="char:EOLhyphen"/>ing on of the publique ſervice, His Highneſs the <hi>Lord PROTECTOR</hi> by and with the advice and conſent of his Council doth Declare and Ordain, That in caſe the way, or manner of aſſeſſing the ſaid later three moneths Aſſeſsment by a pound rate in ſuch ſort as is preſcribed by the ſaid Act ſhall prove prejudicial, and obſtru<g ref="char:EOLhyphen"/>ctive to the bringing in the ſaid latter three moneths Aſſeſsment appointed by the ſaid Act, by the time in the ſaid Act for that purpoſe limit<g ref="char:EOLhyphen"/>ted, That then, and in all ſuch caſes, the ſaid Commiſsioners in any of the ſaid Cities, Coun<g ref="char:EOLhyphen"/>ties, Towns, and places in the ſaid Act menti<g ref="char:EOLhyphen"/>oned where ſuch obſtructions ſhall bee or hap<g ref="char:EOLhyphen"/>pen, ſhall appoint a generall meeting together, and the major part of them meeting may, and are
+<pb n="97" facs="tcp:169178:4"/> hereby authorized (for the removal of ſuch ob<g ref="char:EOLhyphen"/>ſtructions, and the more ſpeedy and effectual exe<g ref="char:EOLhyphen"/>cution of the ſaid Act) to proceed according to the moſt juſt and equal way of rates held in ſuch places in the proportioning, levying and aſſeſ<g ref="char:EOLhyphen"/>ſing the reſpective ſummes charged upon them, any thing in the ſaid Act to the contrarie thereof contained in any wiſe notwithſtanding.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Friday,</hi> the 17<hi rend="sup">th</hi> of <hi>Februarie,</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs, the Lord PROTECTOR, and His Council, that this Ordinance bee forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen. Scobell Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>William Du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord PROTECTOR. <hi>MDCLIII.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
